@@ -28,3 +28,4 @@
 /Users/aladdinali/Github/DotNetProjects/GameDiary/GameDiaryProj/obj/Debug/net8.0/GameDiaryProj.pdb
 /Users/aladdinali/Github/DotNetProjects/GameDiary/GameDiaryProj/obj/Debug/net8.0/GameDiaryProj.genruntimeconfig.cache
 /Users/aladdinali/Github/DotNetProjects/GameDiary/GameDiaryProj/obj/Debug/net8.0/ref/GameDiaryProj.dll
+/Users/aladdinali/Github/DotNetProjects/GameDiary/GameDiaryProj/obj/Debug/net8.0/GameDiaryProj.sourcelink.json

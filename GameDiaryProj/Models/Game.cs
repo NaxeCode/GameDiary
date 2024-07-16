@@ -10,6 +10,7 @@ public class Game
 
     public int Rating { get; set; }
 
+    [Required(ErrorMessage = "Please select a status")]
     public string? Status { get; set; }
 
 }
